@@ -177,6 +177,18 @@
         },
         {
           "id": "ai-recruitment-16",
+          "title": "McKinsey-Style Talent Acquisition Strategy",
+          "description": "Create comprehensive strategic talent reports using McKinsey frameworks to analyze workforce gaps, competitive positioning, and develop evidence-backed hiring strategies.",
+          "content": "Adopt the role of a McKinsey Senior Partner specializing in talent strategy. Apply the 9-phase strategic analysis framework to create a comprehensive talent acquisition strategy. Analyze talent market dynamics, benchmark against competitors, identify critical skill gaps, and develop a detailed hiring roadmap with ROI projections and risk mitigation strategies."
+        },
+        {
+         "id": "ai-recruitment-17",
+         "title": "Reverse Genius Candidate Profiling",
+         "description": "Work backward from top performer outcomes to create precise candidate profiles and sourcing strategies using reverse engineering methodology.",
+         "content": "Apply the REVERSE GENIUS PROTOCOL to talent acquisition. Start with your ideal outcome (top performer characteristics), map backwards through prerequisites (skills, experiences, traits), identify constraints, and create a precise sourcing pathway from available talent pools to ideal hires."
+        },
+        {
+          "id": "ai-recruitment-18",
           "title": "AI-Powered Talent Pipeline Development",
           "description": "Build and maintain candidate relationships before they're actively job searching through automated engagement and predictive intelligence.",
           "content": "Act as a talent pipeline strategist using AI to build and maintain candidate relationships. Design a system that identifies and nurtures potential candidates before they're actively job searching. Create automated engagement sequences for different candidate segments: passive prospects, industry contacts, former applicants, and referral network connections. Develop content personalization algorithms based on candidate interests, career stage, and engagement patterns. Include lead scoring systems to prioritize outreach efforts and predictive models to identify when passive candidates might be ready to move. Design integration protocols with CRM systems and provide measurement frameworks for pipeline quality and conversion rates."
@@ -266,6 +278,24 @@
         },
         {
           "id": "candidate-engagement-13",
+          "title": "Design a Multi-Touchpoint Outreach Cadence",
+          "description": "Create a strategic 14-day outreach sequence for a high-value, passive candidate across multiple channels (LinkedIn, email) to maximize the chance of a response.",
+          "content": "Act as a Candidate Engagement Expert. Design a 5-touchpoint outreach cadence over 14 days for a passive [job role] candidate. The goal is to be persistent but not pushy, adding value at each step. The cadence should use a mix of channels. For each touchpoint, specify: 1. **Day**: The day in the sequence (e.g., Day 1, Day 3, Day 7). 2. **Channel**: The platform to use (e.g., LinkedIn Connection Request, Email, LinkedIn Message). 3. **Message Type**: The goal of the message (e.g., Personalized Introduction, Value-add with an interesting article, Company Insight, Final check-in). 4. **Brief Message Content**: A short summary of the message to be sent. Assume the first message did not get a response."
+        },
+        {
+          "id": "candidate-engagement-14",
+          "title": "Job Posting Conversion Optimization",
+          "description": "Transform job descriptions into high-converting talent magnets using psychological triggers and conversion optimization methodologies.",
+          "content": "Act as a Conversion Alchemist specializing in talent attraction. Apply the 12-phase conversion methodology to job postings. Map candidate psychology from skepticism to application, identify emotional triggers, overcome objections at each reading depth, and create compelling CTAs that drive qualified applications."
+        },
+        {
+          "id": "candidate-engagement-15",
+          "title": "Gamified Engagement for Passive Talent",
+          "description": "Create micro-engagement games that gradually build interest in opportunities using neuroscience-based attention training principles.",
+          "content": "Design gamified engagement sequences for passive candidates using attention span rebuilding techniques. Create progressive challenges that start with 2-minute interactions and build to deeper engagement. Use reward cycles, spaced repetition, and achievement mechanics to transform casual interest into active consideration."
+        },
+        {
+          "id": "candidate-engagement-16",
           "title": "Modify Screening Questions for Collaboration",
           "description": "Adapt technical screening questions to emphasize collaborative problem-solving skills while maintaining rigorous technical assessment standards.",
           "content": "Modify these screening questions to emphasize collaborative problem-solving while maintaining technical assessment components, ensuring alignment with our team's culture."
@@ -391,7 +421,25 @@
           "content": "Identify alternative experiences or skill combinations that could demonstrate capability in ML engineering. Consider adjacent skills, relevant projects, and non-traditional learning paths."
         },
         {
-          "id": "sourcing-strategy-19",
+          "id": "sourcing-strategy-20",
+          "title": "Create an Ideal Candidate Persona",
+          "description": "Develop a detailed 'Ideal Candidate Persona' including their motivations, online behavior, communication preferences, and career goals to guide sourcing and engagement strategy.",
+          "content": "Act as a Senior Talent Sourcing Strategist. Based on the provided job description and company context, create a detailed 'Ideal Candidate Persona' for the [job role]. The persona should go beyond skills and experience and include sections for: 1. **Demographics & Background**: Common job titles, years of experience, typical industries they work in. 2. **Motivations & Goals**: What drives this person in their career? Are they motivated by impact, technology, compensation, or work-life balance? 3. **Watering Holes**: Where do they hang out online? (e.g., specific subreddits, GitHub, LinkedIn groups, technical blogs, niche communities). 4. **Communication Style**: Do they prefer formal emails, casual LinkedIn messages, or direct approaches? 5. **Pain Points & Frustrations**: What challenges are they likely facing in their current role that would make them open to a new opportunity? This persona will be the blueprint for all sourcing and outreach efforts."
+        },
+        {
+          "id": "sourcing-strategy-21",
+          "title": "Deep-Dive Talent Intelligence Gathering",
+          "description": "Conduct investigative journalist-style research to uncover hidden talent pools, map competitor talent strategies, and identify non-obvious sourcing channels.",
+          "content": "Act as an investigative talent researcher with 15 years of experience uncovering hidden talent pools. Use multi-layered research methodology to discover non-obvious talent sources, analyze competitor hiring patterns, map talent migration flows, and identify emerging skill hubs. Provide infinite drilling capability into specialized talent niches."
+        },
+        {
+          "id": "sourcing-strategy-22",
+          "title": "Candidate Journey Psychological Optimization",
+          "description": "Design recruitment processes that work with candidate psychology using behavioral insights to reduce drop-offs and increase acceptance rates.",
+          "content": "Apply behavioral psychology and system design principles to create a candidate experience that feels natural and compelling. Map emotional states throughout the hiring journey, identify resistance points, design gentle interventions that make saying 'yes' feel inevitable, and build sustainable engagement systems."
+        },
+        {
+          "id": "sourcing-strategy-23",
           "title": "Review Evaluation Framework for Bias",
           "description": "Audit assessment criteria for unconscious bias and ensure fair evaluation of diverse backgrounds while maintaining competency standards.",
           "content": "Review this candidate evaluation framework for bias. Suggest adjustments to ensure all backgrounds and career pathways are fairly considered while maintaining core competency focus."
@@ -456,9 +504,17 @@
           "content": "Act as an interviewer responsible for conducting mock interviews. Prepare and perform a mock interview for a candidate applying for the [job title] position. The mock interview should simulate the real interview process for this role, including common and role‑specific questions. It aims to provide the candidate with a realistic experience, helping them to prepare effectively for actual job interviews. Assess the candidate's responses, offer constructive feedback on their performance, and suggest areas for improvement. Ensure the interview covers aspects such as the candidate's experience, skills relevant to the [job title], problem‑solving abilities, and cultural fit for the organization. Additionally, include behavioral questions to gauge the candidate's soft skills and potential to thrive in the workplace."
         }
       ],
+      "Overcome Hiring Manager Interview Delays": [
+        {
+         "id": "interview-prep-9",
+         "title": "Overcome Hiring Manager Interview Delays",
+         "description": "Identify and address the psychological patterns causing hiring managers to delay or avoid conducting interviews.",
+         "content": "Act as a behavioral psychologist specializing in procrastination. Investigate why hiring managers delay interviews, uncover emotional roots of avoidance (fear of wrong hire, overwhelm, perfectionism), and design personalized interventions that make interview scheduling feel natural and manageable."
+       }
+      ],
       "Suggest Technical Questions": [
         {
-          "id": "interview-prep-8",
+          "id": "interview-prep-9",
           "title": "Suggest Technical Questions",
           "description": "Compile comprehensive technical questions that assess expertise, problem-solving abilities, and practical application of skills for specific roles.",
           "content": "Act as an HR expert assistant, compile a comprehensive list of common technical questions for an interview based on the given [job title]. This list should encompass a broad range of questions that accurately assess the candidate's technical skills, knowledge, and problem‑solving abilities relevant to the role. Ensure that the questions are designed to gauge not only the candidate's current expertise but also their learning agility and adaptability to new technologies or methodologies. Additionally, incorporate scenario‑based questions to understand how the candidate applies their technical knowledge in practical situations. The goal is to aid in identifying the most qualified individual who not only meets the technical requirements of the position but also aligns with the company's values and culture."
@@ -522,6 +578,14 @@
           "description": "Establish realistic, motivating SMART performance goals that align with organizational objectives and drive professional growth and productivity.",
           "content": "Act as a performance review expert. Your task is to set a realistic and motivating performance goal for a [position]. The goal should align with the organization's objectives and the specific responsibilities of the position. It needs to be measurable, achievable, relevant, and time‑bound (SMART). Consider the position's key performance indicators (KPIs), recent performance trends, and any upcoming challenges or opportunities that could impact performance. Provide clear guidelines on how success will be measured and offer actionable steps for achieving these goals. The aim is to foster professional growth and enhance overall productivity."
         }
+      ],
+      "Recruitment Team Performance Acceleration Audit": [
+        {
+          "id": "performance-reviews-9",
+          "title": "Recruitment Team Performance Acceleration Audit",
+          "description": "Conduct comprehensive analysis of recruitment team performance across 6 dimensions to identify growth opportunities and create acceleration blueprints.",
+          "content": "Apply the 360° Growth Audit framework to recruitment operations. Analyze sourcing efficiency, candidate experience, hiring manager satisfaction, time-to-fill metrics, quality of hire, and team capabilities. Develop 90-day quick wins and strategic initiatives to 5-10X recruitment performance."
+       }
       ],
       "Suggest Training Programs for a Skill": [
         {
