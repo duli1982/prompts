@@ -310,25 +310,25 @@
           "id": "sourcing-strategy-1",
           "title": "Analyze Target Employers",
           "description": "Research and identify companies that employ your target talent, including job title variations, certifications, and educational backgrounds for strategic sourcing.",
-          "content": "As a talent acquisition expert specializing in cybersecurity, use the job description below and current industry trends to analyze employers of cybersecurity engineers with cloud security specialization in Washington, D.C. Include job title variations, professional certifications, and educational backgrounds."
+          "content": "As a talent acquisition expert specializing in [industry/domain], use the job description below and current industry trends to analyze employers of [target role] with [specific specialization] in [location]. Include job title variations, professional certifications, and educational backgrounds.\n\n[Job Description: paste full job description here]\n\nAdditional Context:\n- Industry Focus: [e.g., FinTech, Healthcare, SaaS]\n- Company Size Preference: [startup/mid-market/enterprise]\n- Required Years of Experience: [range]\n- Budget Range: [salary range]\n- Remote/Hybrid/Onsite: [work arrangement]"
         },
         {
           "id": "sourcing-strategy-2",
           "title": "Identify Niche Sourcing Channels",
           "description": "Discover specialized professional communities, conferences, associations, and thought leaders where your ideal candidates are most active and engaged.",
-          "content": "Identify professional associations, key conferences, online communities, and thought leaders relevant to cybersecurity engineers specializing in cloud security."
+          "content": "Identify professional associations, key conferences, online communities, and thought leaders relevant to [target role] specializing in [specific skills/technology].\n\nTarget Profile:\n- Primary Skill Set: [e.g., Python, AWS, React]\n- Secondary Skills: [complementary skills]\n- Seniority Level: [junior/mid/senior/executive]\n- Industry Background: [preferred industries]\n- Geographic Focus: [locations or regions]\n- Language Requirements: [if applicable]"
         },
         {
           "id": "sourcing-strategy-3",
           "title": "Analyze Candidate Motivations",
           "description": "Understand what drives career decisions, pain points, and motivators for your target talent to craft more compelling outreach and opportunities.",
-          "content": "Analyze career motivations and pain points for cybersecurity engineers. What factors drive career changes? What work environments and growth opportunities are most attractive to them?"
+          "content": "Analyze career motivations and pain points for [target role]. What factors drive career changes? What work environments and growth opportunities are most attractive to them?\n\nContext to Consider:\n- Current Market Conditions: [e.g., high demand, limited supply]\n- Competing Offers: [what competitors are offering]\n- Career Stage: [early career/experienced/senior]\n- Industry Transitions: [from which industries are they moving]\n- Key Frustrations in Current Roles: [known pain points]\n- Company Culture Preferences: [startup vs corporate, etc.]"
         },
         {
           "id": "sourcing-strategy-4",
           "title": "Create a Sourcing Strategy Plan",
           "description": "Develop comprehensive sourcing strategies with ranked channels, targeted outreach content, and execution steps based on probability of success.",
-          "content": "Based on previous analysis, create a sourcing strategy for cybersecurity engineers in Washington, D.C. Include primary and niche sourcing channels, outreach content recommendations, and execution steps ranked by probability of success."
+          "content": "Based on previous analysis, create a sourcing strategy for [TARGET_ROLE] in [LOCATION]. Include primary and niche sourcing channels, outreach content recommendations, and execution steps ranked by probability of success."
         }
       ],
       "Hiring Manager Collaboration": [
@@ -336,7 +336,7 @@
           "id": "sourcing-strategy-5",
           "title": "Develop Hiring Manager Alignment Guide",
           "description": "Create structured intake processes that align hiring managers and recruiters on role requirements, success metrics, and team dynamics.",
-          "content": "Help me develop a hiring manager alignment guide for ML engineer roles in Amsterdam. Include key intake questions covering role responsibilities, required vs. preferred skills, success metrics, team dynamics, and business impact."
+          "content": "Help me develop a hiring manager alignment guide for [Role] roles in [Location]. Include key intake questions covering role responsibilities, required vs. preferred skills, success metrics, team dynamics, and business impact."
         },
         {
           "id": "sourcing-strategy-6",
