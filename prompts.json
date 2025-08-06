@@ -400,7 +400,7 @@
           "id": "sourcing-strategy-15",
           "title": "Create a Skills-Based Evaluation Matrix",
           "description": "Build objective evaluation frameworks that assess technical competencies, project experience, and transferable skills for consistent candidate assessment.",
-          "content": "Using the attached job description, create an objective skills-based evaluation matrix for ML engineers. Include technical competencies, project experience criteria, and transferable skills considerations."
+          "content": "Using the [Job Description Document or Link], create an objective skills-based evaluation matrix for [Role] roles in [Location or Team]. Include the following dimensions:\n\n- Technical Competencies: [List of Key Technical Skills/Technologies]\n- Project Experience Criteria: [Types of Past Projects or Deliverables to Evaluate]\n- Transferable Skills Considerations: [Soft Skills or Cross-Functional Abilities]\n\nProvide scoring rubrics or rating scales for each dimension, and suggest minimum thresholds for advancing candidates to the next stage."
         },
         {
           "id": "sourcing-strategy-16",
@@ -418,7 +418,7 @@
           "id": "sourcing-strategy-18",
           "title": "Identify Alternative Candidate Qualifications",
           "description": "Recognize non-traditional pathways and alternative experiences that demonstrate competency, expanding your qualified candidate pool beyond conventional backgrounds.",
-          "content": "Identify alternative experiences or skill combinations that could demonstrate capability in ML engineering. Consider adjacent skills, relevant projects, and non-traditional learning paths."
+          "content": "Identify alternative experiences or skill combinations that could demonstrate capability in [Role]. Consider adjacent skills such as [Adjacent Skill 1], [Adjacent Skill 2], relevant projects like [Project Example 1], [Project Example 2], non-traditional learning paths such as [Bootcamp/Online Course], [Self-Directed Project], and other unconventional backgrounds like [Industry Switch], [Volunteer Experience]."
         },
         {
           "id": "sourcing-strategy-20",
